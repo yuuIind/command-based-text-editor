@@ -1,6 +1,6 @@
 # command-based-text-editor
 
-LAST EDIT: in some cases, it doesn't work as intended.
+LAST EDIT: Mostly works. However, it doesn't work as intended in some cases. 
 
 
 CSE211 Term Project
