@@ -22,8 +22,8 @@ Writes the contents of the document to the file whose name is provided in the `f
 
 3- insert n text: 
 Inserts a new line to position n.
-# of lines > n : place it between n-1'th and n'th lines.
-# of lines < n : fill the gap with blank lines.
+Number of lines > n : place it between n-1'th and n'th lines.
+Number of lines < n : fill the gap with blank lines.
 
 4- delete n: 
 Deletes the n'th line.
