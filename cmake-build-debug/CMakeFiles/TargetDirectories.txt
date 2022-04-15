@@ -1,3 +1,0 @@
-C:/Users/Hakan/Desktop/TermProject/cmake-build-debug/CMakeFiles/TermProject.dir
-C:/Users/Hakan/Desktop/TermProject/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Hakan/Desktop/TermProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
